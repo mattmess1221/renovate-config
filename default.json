@@ -4,7 +4,9 @@
     {
       "matchPackageNames": [
         "uv",
-        "uv-build"
+        "astral-sh/uv",
+        "ghcr.io/astral-sh/uv",
+        "uv_build"
       ],
       "groupName": "UV Package Manager",
       "groupSlug": "uv"
