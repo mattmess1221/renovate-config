@@ -6,7 +6,7 @@
         "uv",
         "astral-sh/uv",
         "ghcr.io/astral-sh/uv",
-        "uv_build"
+        "uv-build"
       ],
       "groupName": "UV Package Manager",
       "groupSlug": "uv"
